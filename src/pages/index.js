@@ -4,7 +4,7 @@ import Header from "@/app/components/Header";
 import TaskList from "@/app/components/TaskList";
 import React, { useState, useEffect } from "react";
 import "@/app/globals.css";
-import AddTaskModal from "@/app/components/AddtaskModal";
+import AddTaskModal from "@/app/components/AddTaskModal";
 
 const Page = () => {
   const initialTasks = [
